@@ -10,6 +10,7 @@ namespace AWCOnlineStore
     public partial class _AlsoBought : System.Web.UI.UserControl
     {
         public int ProductID;
+public string s ="Demo";
 
         protected void Page_Load(object sender, EventArgs e)
         {
